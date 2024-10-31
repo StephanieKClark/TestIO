@@ -1,5 +1,5 @@
 ---
-title: Exercise 02: Implement function calling to integrate with external APIs
+title: 'Exercise 02: Implement function calling to integrate with external APIs
 layout: default
 nav_order: 3
 has_children: true
