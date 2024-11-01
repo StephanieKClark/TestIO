@@ -6,6 +6,8 @@ nav_order: 1
 
 # TechExcel: Integrating Azure PaaS and AI Services for Design Wins
 
+**These are example pages pulled from different repos and cleaned to follow the guidelines. The content is just to show the expected formatting and layout**
+
 This lab teaches you how to integrate Azure OpenAI and Azure AI Services into existing business practices. You will experiment with a variety of Azure OpenAI and Azure AI Services capabilities, including vectorization of existing files, performing chat based on a customer's dataset, making API calls through Azure OpenAI, transcribing recorded and live audio, checking audio for compliance purposes, and generating extractive and abstractive call summaries from audio recordings.
 
 ## Exercises
@@ -21,7 +23,7 @@ This lab has exercises on:
 * Perform compliance checks and vector search against transcripts
 * Orchestrate agents with Semantic Kernel
 
-The lab is available as GitHub pages [here](https://microsoft.github.io/TechExcel-Integrating-Azure-PaaS-and-AI-Services-for-AI-Design-Wins)
+The lab is available as GitHub pages here (with link).
 
 ## Prerequisites
 
