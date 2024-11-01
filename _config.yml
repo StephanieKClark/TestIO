@@ -1,12 +1,12 @@
-title: Test lab title
+title: Example I/O Pages
 description: This lab walks you through the X
 theme: just-the-docs
 
 # url: https:/test-steph
 
 aux_links:
-  "Java microservices on AKS lab on GitHub": 
-    - "https://github.com/Azure-Samples/java-microservices-aks-lab"
+  "Example repository for Lab Style Guide": 
+    - "https://github.com/StephanieKClark/TestIO"
 
 
 callouts_level: quiet # or loud
