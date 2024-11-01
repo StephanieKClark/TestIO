@@ -1,30 +1,24 @@
 ---
-title: 'Exercise 02: Implement function calling to integrate with external APIs'
+title: 'Exercise 02: Name of exercise'
 layout: default
 nav_order: 3
 has_children: true
 ---
 
-# Exercise 02: Implement function calling to integrate with external APIs
+# Exercise 02: Name of exercise
 
-## Scenario
+##  Scenario
 
-Bringing our own data is one great way to enhance GPT models in Azure OpenAI, allowing them to answer questions specific to our circumstances. Another way to customize responses and enhance system capabilities involves function calling, something we can implement using the Semantic Kernel library. 
-
-In this exercise, you'll create a solution allowing end users to query data from Azure SQL Database using natural language.
+In this exercise, we ...
 
 ## Objectives
 
 After you complete this exercise, you'll be able to:
 
- - Implement hotel bookings history endpoints against Azure SQL Database using C#
- - Create Semantic Kernel plugins to enable translation of natural language into SQL queries
- - Incorporate API results into the Streamlit application
- 
-## Duration
+* Objective 1.
+* Objective 2, etc.
 
-**Estimated time:** 60 minutes
+## Lab Duration
 
-(Other information may also be included with their own headings, such as resources.)
-
+* **Estimated Time:** XX minutes
 
