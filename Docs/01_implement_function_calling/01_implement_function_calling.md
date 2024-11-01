@@ -7,6 +7,8 @@ has_children: true
 
 # Exercise 01: Implement function calling to integrate with external APIs
 
+(Content for demonstrative purposes only)
+
 ## Scenario
 
 Bringing our own data is one great way to enhance GPT models in Azure OpenAI, allowing them to answer questions specific to our circumstances. Another way to customize responses and enhance system capabilities involves function calling, something we can implement using the Semantic Kernel library. 
