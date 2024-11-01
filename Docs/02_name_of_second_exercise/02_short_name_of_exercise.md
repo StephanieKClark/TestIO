@@ -5,7 +5,7 @@ nav_order: 3
 has_children: true
 ---
 
-# Exercise 02 - Implement function calling to integrate with external APIs
+# Exercise 02: Implement function calling to integrate with external APIs
 
 ## Scenario
 
